@@ -1,5 +1,4 @@
 from flask import Flask,render_template,request
-import numpy as np
 from flask_pymongo import PyMongo
 import json 
 import time
